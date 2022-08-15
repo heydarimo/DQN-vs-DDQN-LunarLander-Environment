@@ -1,2 +1,2 @@
 # DQN-vs-DDQN-LunarLander-Environment
-In this Repository we intend to implement DQN and also DDQN algorithm in case of training an agent to solve Lunar-Lander problem. there are lots of beautiful results after training the agent which have been attached in a folder called 'performance-videos' , please have a look.
+In this Repository, we intend to implement the DQN and also the DDQN algorithm in case of training an agent to solve the Lunar-Lander problem. there are lots of exciting results after training which have been attached.

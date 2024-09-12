@@ -93,3 +93,6 @@ While DQN and DDQN performed similarly in this problem, future improvements coul
    ```bash
    git clone https://github.com/heydarimo/LunarLander-DQN-DDQN.git
    cd LunarLander-DQN-DDQN
+
+pip install -r requirements.txt
+   

@@ -112,8 +112,8 @@ While DQN and DDQN performed similarly in this problem, future improvements coul
    ```bash
    python train.py --algorithm ddqn
 
+## Technologies Used
 
-
-
-
-   
+- **Python** (TensorFlow, Keras, NumPy, OpenAI Gym)
+- **Matplotlib** for visualizations
+- **Experience Replay** and **Target Networks** for stabilizing training

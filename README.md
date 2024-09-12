@@ -121,6 +121,6 @@ While DQN and DDQN performed similarly in this problem, future improvements coul
 
 ## References
 
-- **OpenAI Gym:** Lunar Lander
+1. [OpenAI Gym: Lunar Lander](https://gym.openai.com/envs/LunarLander-v2/)
 - **Deep Q-Learning Algorithm**
 - **Double Q-Learning**

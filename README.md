@@ -1,6 +1,6 @@
 # Lunar Lander: Deep Q-Learning (DQN) and Double Deep Q-Learning (DDQN)
 
-![Lunar Lander GIF](link-to-your-gif.gif)
+![Lunar Lander GIF](link-to-your-img.jfif)
 
 ## Overview
 

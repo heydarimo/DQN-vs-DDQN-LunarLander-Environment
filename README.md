@@ -91,5 +91,5 @@ While DQN and DDQN performed similarly in this problem, future improvements coul
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/LunarLander-DQN-DDQN.git
+   git clone https://github.com/heydarimo/LunarLander-DQN-DDQN.git
    cd LunarLander-DQN-DDQN

@@ -53,7 +53,7 @@ The following hyperparameters were used in both DQN and DDQN:
 
 Here’s the visualization of the training process for both DQN and DDQN.
 
-![Training Process GIF](link-to-your-training-gif.gif)
+![Training Process GIF](link-to-your-training-vid.mp4)
 
 ### Learning Curves
 

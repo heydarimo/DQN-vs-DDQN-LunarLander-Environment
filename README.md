@@ -103,14 +103,14 @@ While DQN and DDQN performed similarly in this problem, future improvements coul
    python train.py
 
 ### Running the Experiments
-To run DQN:
-    ```bash
-    python train.py --algorithm dqn
+1. To run DQN:
+   ```bash
+   python train.py --algorithm dqn
 
 
-To run DDQN:
-    ```bash
-    python train.py --algorithm ddqn
+2. To run DDQN:
+   ```bash
+   python train.py --algorithm ddqn
 
 
 

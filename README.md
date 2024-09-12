@@ -98,4 +98,21 @@ While DQN and DDQN performed similarly in this problem, future improvements coul
    ```bash
    pip install -r requirements.txt
 
+3. Run the project:
+   ```bash
+   python train.py
+
+### Running the Experiments
+To run DQN:
+```bash
+python train.py --algorithm dqn
+
+To run DDQN:
+```bash
+python train.py --algorithm ddqn
+
+
+
+
+
    

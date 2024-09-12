@@ -122,4 +122,4 @@ While DQN and DDQN performed similarly in this problem, future improvements coul
 ## References
 
 1. [OpenAI Gym: Lunar Lander](https://gym.openai.com/envs/LunarLander-v2/)
-2. [Double Q-Learning Research Paper](https://arxiv.org/abs/1509.06461)-
+2. [Double Q-Learning Research Paper](https://arxiv.org/abs/1509.06461)

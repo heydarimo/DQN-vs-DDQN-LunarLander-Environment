@@ -104,13 +104,13 @@ While DQN and DDQN performed similarly in this problem, future improvements coul
 
 ### Running the Experiments
 To run DQN:
-```bash
-python train.py --algorithm dqn
+    ```bash
+    python train.py --algorithm dqn
 
 
 To run DDQN:
-```bash
-python train.py --algorithm ddqn
+    ```bash
+    python train.py --algorithm ddqn
 
 
 
